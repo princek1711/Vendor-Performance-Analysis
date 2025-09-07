@@ -28,4 +28,20 @@ It combines **Python (EDA + KPI calculations)** and **Power BI (interactive dash
 ---
 
 ## 📂 Repository Structure
+Vendor-Performance-Analysis/
+│
+├─ notebooks/              # All Jupyter notebooks
+│   ├─ Exploratory_Data_Analysis.ipynb
+│   ├─ Vendor_Performance_Analysis.ipynb
+│   └─ Vendor_Performance_Data_Analytics.ipynb
+│
+├─ output/                 # Exported CSVs, summary tables, reports
+│   ├─ Vendor_Sales_Record.pbix
+│   └─ vendor_Sales_summary.csv
+│
+├─ PowerBI dashboard/              # Power BI dashboards
+│   └─ Vendor-analysis-dashboard.png
+│ 
+└─ README.md              
+
 
